@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="left">Hi...</h1>
+<h2>Feel free to look at my repos and contribute but I mainly put repos on my organization (IdiotStudios)</h2>
 
 <!--
 **SeradedStripes/SeradedStripes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=seradedstripes)](https://github.com/seradedstripes/github-profile-trophy)
+
+![seradedstripes](https://github-readme-stats.vercel.app/api?username=seradedstripes&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![seradedstripes](https://github-readme-stats.vercel.app/api/top-langs?username=seradedstripes&show_icons=true&theme=tokyonight&layout=compact)
