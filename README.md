@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=25073&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=gruvbox)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=seradedstripes)](https://github.com/seradedstripes/github-profile-trophy)
 
 ![seradedstripes](https://github-readme-stats.vercel.app/api?username=seradedstripes&show_icons=true&theme=tokyonight&hide=["issues"])
