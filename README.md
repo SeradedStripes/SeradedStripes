@@ -1,5 +1,4 @@
 <h1 align="left">Hi...</h1>
-<h2>Feel free to look at my repos and contribute but I mainly put repos on my organization (IdiotStudios)</h2>
 
 <!--
 **SeradedStripes/SeradedStripes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
