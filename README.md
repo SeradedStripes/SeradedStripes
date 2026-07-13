@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 
 ![stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=25073&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=gruvbox)
 
-![seradedstripes](https://github-readme-stats.vercel.app/api?username=seradedstripes&show_icons=true&theme=tokyonight&hide=["issues"])
-
-![seradedstripes](https://github-readme-stats.vercel.app/api/top-langs?username=seradedstripes&show_icons=true&theme=tokyonight&layout=compact)
+See my pinned repos below for my favourite repos that I contributed to!
